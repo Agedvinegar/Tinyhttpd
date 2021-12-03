@@ -1,7 +1,7 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Agedvinegar&repo=Tinyhttpd)](https://github.com/Agedvinegar/Tinyhttpd)
 A mirror for tinyhttpd(Tinyhttpd非官方镜像,Fork自[sourceForge](https://sourceforge.net/projects/tiny-httpd/),仅供学习)
 
 测试CGI时需要本机安装PERL，同时安装perl-cgi
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xz&repo=Tinyhttpd)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Prepare 
 Compile for Linux
